@@ -1,0 +1,9 @@
+html,
+body,
+p {
+  background-color: #000 !important;
+}
+
+body * {
+  color: #fff !important;
+}
